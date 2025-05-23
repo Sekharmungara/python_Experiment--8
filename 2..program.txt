@@ -1,0 +1,7 @@
+import datetime
+current_datetime = datetime.datetime.now()
+print("current date and time : ",current_datetime)
+
+OUTPUT:
+
+current date and time : 2023-05-23 16:40:43.332667

@@ -1,0 +1,8 @@
+import math
+number = 25
+sqrt = math.sqrt(number)
+print('square root : ",sqrt)
+
+OUTPUT:
+
+square root : 5.0
